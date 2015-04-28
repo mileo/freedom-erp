@@ -1,0 +1,1 @@
+Obs.: Estas configurações são necessárias para um bom desempenho do sistema, no entanto o sistema poderá funcionar em equipamentos inferiores.
